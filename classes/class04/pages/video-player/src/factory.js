@@ -55,6 +55,7 @@ const factory = {
       view: new View(),
       worker,
       camera,
+      videoUrl: `${rootPath}/assets/video.mp4`,
     });
   },
 };
